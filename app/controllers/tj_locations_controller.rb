@@ -1,0 +1,2 @@
+class TjLocationsController < ApplicationController
+end
